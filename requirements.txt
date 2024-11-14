@@ -3,3 +3,5 @@ streamlit
 numpy
 mysql-connector-python
 streamlit-aggrid
+datetime
+workalendar
